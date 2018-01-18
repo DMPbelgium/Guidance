@@ -1,2 +1,3 @@
 # Guidance
-How to customize DMPonline.be for your organisation: documentation, examples
+Documentation about [DMPonline.be](https://dmponline.be), and how to customize it for your organisation: presentations, manuals, example templates etc.
+ 
